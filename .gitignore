@@ -1,0 +1,7 @@
+# build outputs
+build/
+build2/
+
+.cache/
+
+CMakeLists.txt.user
